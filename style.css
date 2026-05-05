@@ -309,8 +309,6 @@ body{
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
-  margin-left: 450px;
-  margin-top: 80px;
 }
 
 .social-btn {
@@ -338,8 +336,6 @@ body{
 
 /* Thank You */
 .thankyou h2 {
-  margin-left: 450px;
-  margin-top: 80px;
   font-family: var(--font-display);
   font-size: clamp(3rem, 6vw, 5.5rem);
   font-weight: 800;
